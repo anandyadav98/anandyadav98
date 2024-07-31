@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/anand-yadav-657a02278?/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/anand-yadav-657a02278?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boyi99pe5tdktsxndxdjkjg%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/anand-yadav-657a02278?/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/anand-yadav-657a02278?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boyi99pe5tdktsxndxdjkjg%3d%3d" height="30" width="40" /></a>
  <a href="https://twitter.com/@__anand_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadav_vivek_" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__anand_y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__anand_y" height="30" width="40" /></a>
 </p>
