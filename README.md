@@ -5,7 +5,8 @@
 :mailbox: Contact Me at- 7355990121
 
 [![Mail Badge](https://img.shields.io/badge/-Personal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anandybdh12345@gmail.com)
-
+[![Mail Badge](https://img.shields.io/badge/-CollegeID-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:20bec069@nith.ac.in)
+</p>
 
 
 <!-- TODO: Add last video link -->
