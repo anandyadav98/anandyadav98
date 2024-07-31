@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vivek-yadav-6605a3200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-yadav-6605a3200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boyi99pe5tdktsxndxdjkjg%3d%3d" height="30" width="40" /></a>
- <a href="https://twitter.com/yadav_vivek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadav_vivek_" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_vivekk28_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vivek___98" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-yadav-6605a3200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/anand-yadav-657a02278?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boyi99pe5tdktsxndxdjkjg%3d%3d" height="30" width="40" /></a>
+ <a href="https://twitter.com/@__anand_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadav_vivek_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__anand_y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__anand_y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,15 +37,15 @@
 
 <!-- ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekYadav98&theme=graywhite&show_icons=true) -->
 <p align="center"> <img
-Src="http://github-readme-streak-stats.herokuapp.com?user=VivekYadav98&theme=algolia&date_format=j%20M%5B%20Y%5D)" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VivekYadav98&theme=tokyonight" />
+Src="http://github-readme-streak-stats.herokuapp.com?user=anandyadav98&theme=algolia&date_format=j%20M%5B%20Y%5D)" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anandyadav98&theme=tokyonight" />
  -->
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{VivekYadav98}/count.svg" alt="VivekYadav98 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{anandyadav98}/count.svg" alt="anandyadav98 :: Visitor's Count" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
