@@ -48,7 +48,7 @@ Src="http://github-readme-streak-stats.herokuapp.com?user=anandyadav98&theme=alg
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{VivekYadav98}/count.svg" alt="anandyadav98 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{anandyadav98}/count.svg" alt="anandyadav98 :: Visitor's Count" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
