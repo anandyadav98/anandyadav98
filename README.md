@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **....**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VivekYadav98/](https://github.com/anandyadav98/)
+- 👨‍💻 All of my projects are available at [https://github.com/anandyadav98/](https://github.com/anandyadav98/)
 
 - 📫 How to reach me **anandybdh12345@gmail.com**
 
@@ -31,6 +31,7 @@
 <a href="https://www.linkedin.com/in/anand-yadav-657a02278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/anand-yadav-657a02278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
  <a href="https://x.com/__anand_yadav?t=YydFz8390m1lBPJf10w7bw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@__anand_yadav" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__anand_y?igsh=bW50NTN1aDM4aDhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__anand_y" height="30" width="40" /></a>
+ <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anandy98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
