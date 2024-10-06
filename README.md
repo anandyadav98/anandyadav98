@@ -10,7 +10,7 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 A passionate learner and having strong interest in Data Structures & Algorithms and Problem Solving. 
+- 🔭 A passionate learner with a strong interest in Data Structures, Algorithms, and Problem Solving. 
 - 🤖 Open Source and Web-development enthusiast.
 
 
